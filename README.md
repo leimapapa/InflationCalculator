@@ -1,0 +1,2 @@
+# InflationCalculator
+calculate inflation
